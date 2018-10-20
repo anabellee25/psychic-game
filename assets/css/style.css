@@ -1,0 +1,13 @@
+#game {
+    text-align: center;
+    margin: auto;
+    border: solid 1px black;
+    width:50%;
+}
+
+#psychiclady {
+    margin: auto;
+    text-align: center;
+    position: relative;
+    left: 420px;
+}
